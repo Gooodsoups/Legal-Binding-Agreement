@@ -1,0 +1,9 @@
+{
+    "id": "TBOJ",
+    "name": "Legal Binding Agreement",
+    "author": ["Gooodsoups"],
+    "description": "Unbalanced travesty based on the concerningly addictive game The Binding Of Isaac, and other stuff",
+    "prefix": "TBOJ",
+    "main_file": "main.lua",
+    "badge_colour": "1EBCF0"
+}
